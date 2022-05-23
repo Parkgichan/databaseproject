@@ -25,9 +25,11 @@
 
 
 
-
+E-R 다이어그램
 ![화면 캡처 2022-05-23 213515](https://user-images.githubusercontent.com/81346175/169839178-4f17c826-9d13-492f-8e2b-a0c3e8bbada2.png)
 
+릴레이션 스키마
+![화면 캡처 2022-05-23 231528](https://user-images.githubusercontent.com/81346175/169839625-75295d65-781c-4b65-90d7-b9d8a3af6b3d.png)
 
 
 
