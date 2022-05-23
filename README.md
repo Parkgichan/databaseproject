@@ -31,6 +31,10 @@ E-R 다이어그램
 릴레이션 스키마
 ![화면 캡처 2022-05-23 231528](https://user-images.githubusercontent.com/81346175/169839625-75295d65-781c-4b65-90d7-b9d8a3af6b3d.png)
 
+구현
+![123](https://user-images.githubusercontent.com/81346175/169840910-18f86964-9ea1-4e5b-9e54-e63d77230b56.png)
+![1234](https://user-images.githubusercontent.com/81346175/169840915-6b8522e3-114c-4481-a553-5737bfda940f.png)
+
 
 
 
