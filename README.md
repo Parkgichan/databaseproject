@@ -50,11 +50,15 @@ E-R 다이어그램
 ![사업장 테이블 제 2정규형](https://user-images.githubusercontent.com/81346175/170983141-ea7937fc-dec6-4d7c-a9a8-e9fa036a2637.png)
 
 사업장 테이블 제 3정규형
+
 사업장 정보 (일련번호, 주소,방타입, 방개수, 요금)
+
 ![사업장 테이블 제 3정규형](https://user-images.githubusercontent.com/81346175/170984618-0c2799fd-0f9d-4ec7-948d-1e1a5bf5c795.png)
 
 사업장 테이블 제 3정규형
+
 사업장_이름과 위치 (주소, 사업장 이름, 업주번호(FK))
+
 ![사업장 테이블 제 3정규형2](https://user-images.githubusercontent.com/81346175/170984171-42eb3e8c-1675-4100-bcf0-045c0e6da374.png)
 
 
