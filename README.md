@@ -35,6 +35,9 @@ E-R 다이어그램
 ![123](https://user-images.githubusercontent.com/81346175/169840910-18f86964-9ea1-4e5b-9e54-e63d77230b56.png)
 ![1234](https://user-images.githubusercontent.com/81346175/169840915-6b8522e3-114c-4481-a553-5737bfda940f.png)
 
+![사업장테이블](https://user-images.githubusercontent.com/81346175/170982676-06a3c028-8f22-48aa-8d61-ac823fcd52ac.png)
+
+
 
 
 
