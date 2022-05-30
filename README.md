@@ -37,7 +37,7 @@ E-R 다이어그램
 
 사업장 테이블
 사업장(사업장이름, 주소,방타입, 방개수,업주번호(FK),요금)
-![사업장테이블](https://user-images.githubusercontent.com/81346175/170982676-06a3c028-8f22-48aa-8d61-ac823fcd52ac.png)
+![사업장테이블](https://user-images.githubusercontent.com/81346175/170985509-1c12cdf7-a2d3-4b0e-9439-41c83e8709f7.png)
 
 사업장 테이블 제 1정규형
 
