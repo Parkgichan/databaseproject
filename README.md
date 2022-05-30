@@ -35,9 +35,25 @@ E-R 다이어그램
 ![123](https://user-images.githubusercontent.com/81346175/169840910-18f86964-9ea1-4e5b-9e54-e63d77230b56.png)
 ![1234](https://user-images.githubusercontent.com/81346175/169840915-6b8522e3-114c-4481-a553-5737bfda940f.png)
 
+사업장 테이블
+사업장(사업장이름, 주소,방타입, 방개수,업주번호(FK),요금)
 ![사업장테이블](https://user-images.githubusercontent.com/81346175/170982676-06a3c028-8f22-48aa-8d61-ac823fcd52ac.png)
 
+사업장 테이블 제 1정규형
+사업장(사업장이름, 주소,방타입, 방개수,업주번호(FK),요금)
+![Uploading 사업장 테이블 제 1정규형.png…]()
 
+사업장 테이블 제 2정규형
+사업장(일련번호 사업장 이름, 주소,방타입, 방개수,업주번호(FK),요금)
+![사업장 테이블 제 2정규형](https://user-images.githubusercontent.com/81346175/170983141-ea7937fc-dec6-4d7c-a9a8-e9fa036a2637.png)
+
+사업장 테이블 제 3정규형
+사업장 정보 (일련번호, 주소,방타입, 방개수, 요금)
+![Uploading 사업장 테이블 제 3정규형.png…]()
+
+사업장 테이블 제 3정규형
+사업장_이름과 위치 (주소, 사업장 이름, 업주번호(FK))
+![사업장 테이블 제 3정규형2](https://user-images.githubusercontent.com/81346175/170984171-42eb3e8c-1675-4100-bcf0-045c0e6da374.png)
 
 
 
