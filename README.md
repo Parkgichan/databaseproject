@@ -35,6 +35,7 @@ E-R 다이어그램
 ![123](https://user-images.githubusercontent.com/81346175/169840910-18f86964-9ea1-4e5b-9e54-e63d77230b56.png)
 ![1234](https://user-images.githubusercontent.com/81346175/169840915-6b8522e3-114c-4481-a553-5737bfda940f.png)
 
+b1 정규화 수행
 사업장 테이블
 사업장(사업장이름, 주소,방타입, 방개수,업주번호(FK),요금)
 ![사업장테이블](https://user-images.githubusercontent.com/81346175/170985509-1c12cdf7-a2d3-4b0e-9439-41c83e8709f7.png)
