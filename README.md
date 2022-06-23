@@ -108,8 +108,8 @@ DATA 수정 및 삭제
 1) UPDATE문
 
 
-   허나영 고객님의 비밀번호 변경
-![update끝](https://user-images.githubusercontent.com/81346175/175238616-61b5e97b-8cd2-4dbf-aa83-dcea9d3a477f.png)
+허나영 고객님의 비밀번호 변경
+![화면 캡처 2022-06-23 170755](https://user-images.githubusercontent.com/81346175/175249275-0847b705-3c03-4183-a738-51978337b7e4.png)
 
 
 2) DELETE문
