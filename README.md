@@ -116,4 +116,7 @@ DATA 수정 및 삭제
 ![delete](https://user-images.githubusercontent.com/81346175/175242190-2f7491e6-b178-4d62-aaa9-b456f9da8050.png)
 
 
+SQL문을 통한 DATA 검색
 
+- 대전에 있는 업장의 이름과 주소 보여주기
+![11](https://user-images.githubusercontent.com/81346175/175242665-37b88a4e-149f-4242-af4b-6af5bd815eab.png)
