@@ -109,5 +109,11 @@ DATA 수정 및 삭제
 ![update끝](https://user-images.githubusercontent.com/81346175/175238616-61b5e97b-8cd2-4dbf-aa83-dcea9d3a477f.png)
 
 
+2) DELETE문
+
+업주 탈퇴 : 해당 업주가 탈퇴하여 삭제
+
+![delete](https://user-images.githubusercontent.com/81346175/175242190-2f7491e6-b178-4d62-aaa9-b456f9da8050.png)
+
 
 
