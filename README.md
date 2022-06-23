@@ -68,10 +68,12 @@ E-R 다이어그램
 
 ![사업장 테이블 제 3정규형2](https://user-images.githubusercontent.com/81346175/170984171-42eb3e8c-1675-4100-bcf0-045c0e6da374.png)
 
-
-
-
-
+TABLE 작성 및 DATA 입력
+--------------------------------------------------------------
+1) 회사
+![회사1](https://user-images.githubusercontent.com/81346175/175234132-cc0c1c0e-2d8c-45da-8ec2-02a616cbb60f.png)
+![회사2](https://user-images.githubusercontent.com/81346175/175234125-fee43ed3-6260-4fb4-94ac-61ffe0772585.png)
+![회사3](https://user-images.githubusercontent.com/81346175/175234131-1ba50900-ae05-451a-ae88-8ba728ab92c3.png)
 
 
 
