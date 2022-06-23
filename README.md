@@ -71,14 +71,33 @@ E-R 다이어그램
 TABLE 작성 및 DATA 입력
 --------------------------------------------------------------
 1) 회사
-![회사1](https://user-images.githubusercontent.com/81346175/175234132-cc0c1c0e-2d8c-45da-8ec2-02a616cbb60f.png)
-![회사2](https://user-images.githubusercontent.com/81346175/175234125-fee43ed3-6260-4fb4-94ac-61ffe0772585.png)
-![회사3](https://user-images.githubusercontent.com/81346175/175234131-1ba50900-ae05-451a-ae88-8ba728ab92c3.png)
+
+![회사모음](https://user-images.githubusercontent.com/81346175/175235679-7f7c09cf-b291-451f-9463-69c6f2d67637.png)
+
+2) 고객
+
+![고객모음](https://user-images.githubusercontent.com/81346175/175235752-9efea5ae-fd33-40ad-a61f-5aa1221f335f.png)
+
+3) 업주
+
+![업주모음](https://user-images.githubusercontent.com/81346175/175235768-78c25d79-f9eb-4635-b5de-f25a97315c92.png)
+
+4) 사업장 이름과위치
+
+![사업장이름과위치모음](https://user-images.githubusercontent.com/81346175/175235759-0e417aed-3fb2-4ec6-89a0-36469013353d.png)
+
+5) 사업장 정보
+
+![사업장정보모음](https://user-images.githubusercontent.com/81346175/175235760-07c173c3-d980-4774-8889-46599cd1e2cd.png)
+
+6) 이벤트
+
+![이벤트모음](https://user-images.githubusercontent.com/81346175/175235777-41c19e57-b8a4-4119-bfb7-3f91811897ed.png)
 
 
+7) 예약
 
-
-
+![예약모음](https://user-images.githubusercontent.com/81346175/175235772-868e4c87-2838-482c-ab6c-97ac302b7c86.png)
 
 
 
